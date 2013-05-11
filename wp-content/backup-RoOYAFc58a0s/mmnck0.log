@@ -1,0 +1,7 @@
+#Fields:	date	time	type	message
+2013-05-11	18:26:27	NOTICE	Environment: Backup 2.2; WordPress 3.5.1; PHP 5.4.7; SAPI apache2handler; OS WINNT; ZIP 1.11.0; CURL 7.24.0; Time limit 600s; Memory limit 256M
+2013-05-11	18:26:27	NOTICE	Attempting to dump database.
+2013-05-11	18:26:28	NOTICE	The database dump was completed successfully in 0.740 seconds.
+2013-05-11	18:26:28	NOTICE	Attempting to create archive 'VTS-mmnck0.zip'.
+2013-05-11	18:26:54	NOTICE	Successfully archived 2,473 files in 26.265 seconds. Archive file size is 18.78 MB.
+2013-05-11	18:26:54	NOTICE	Backup process completed in 30.378 seconds. Initial PHP memory usage was 14.00 MB and the backup process used another 1.25 MB of RAM.

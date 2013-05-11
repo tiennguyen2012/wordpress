@@ -1,0 +1,47 @@
+#cfp_notification{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 4px solid #CCCCCC;
+    display: none;
+    height: auto;
+    left: 0;
+    position: absolute;
+    top: 0;
+    z-index: 9;
+    width: 150px;
+    position: relative;
+
+}
+
+#cfp_notification_content{
+    margin: 13px;
+}
+
+#cfp_notification_content{
+    font-size: 16px;
+}
+
+
+#cfp_notification_content em{
+    font-size: 16px;
+}
+
+#cfp_notification_content b{
+    font-size: 18px;
+}
+
+.cfp_icons{
+    cursor: pointer;
+    border: none !important;
+    background: none !important;
+}
+
+#cfp_close_icon{
+    width: 10px;
+    height: 10px;
+    background: url(../media/close.png) center center no-repeat;
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    cursor: pointer;
+    z-index: 100;
+}
