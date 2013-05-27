@@ -71,8 +71,8 @@ function wp_dashboard_setup() {
 	}
 
 	// WP Plugins Widget
-	if ( ( ! is_multisite() && is_blog_admin() && current_user_can( 'install_plugins' ) ) || ( is_network_admin() && current_user_can( 'manage_network_plugins' ) && current_user_can( 'install_plugins' ) ) )
-		wp_add_dashboard_widget( 'dashboard_plugins', __( 'Plugins' ), 'wp_dashboard_plugins' );
+//	if ( ( ! is_multisite() && is_blog_admin() && current_user_can( 'install_plugins' ) ) || ( is_network_admin() && current_user_can( 'manage_network_plugins' ) && current_user_can( 'install_plugins' ) ) )
+//		wp_add_dashboard_widget( 'dashboard_plugins', __( 'Plugins' ), 'wp_dashboard_plugins' );
 
 	// QuickPress Widget
 	if ( is_blog_admin() && current_user_can('edit_posts') )
@@ -83,6 +83,8 @@ function wp_dashboard_setup() {
 		wp_add_dashboard_widget( 'dashboard_recent_drafts', __('Recent Drafts'), 'wp_dashboard_recent_drafts' );
 
 	// Primary feed (Dev Blog) Widget
+
+    /*
 	if ( !isset( $widget_options['dashboard_primary'] ) ) {
 		$update = true;
 		$widget_options['dashboard_primary'] = array(
@@ -96,8 +98,10 @@ function wp_dashboard_setup() {
 		);
 	}
 	wp_add_dashboard_widget( 'dashboard_primary', $widget_options['dashboard_primary']['title'], 'wp_dashboard_primary', 'wp_dashboard_primary_control' );
+    */
 
 	// Secondary Feed (Planet) Widget
+    /*
 	if ( !isset( $widget_options['dashboard_secondary'] ) ) {
 		$update = true;
 		$widget_options['dashboard_secondary'] = array(
@@ -111,6 +115,7 @@ function wp_dashboard_setup() {
 		);
 	}
 	wp_add_dashboard_widget( 'dashboard_secondary', $widget_options['dashboard_secondary']['title'], 'wp_dashboard_secondary', 'wp_dashboard_secondary_control' );
+    */
 
 	// Hook to register new widgets
 	// Filter widget order
@@ -402,7 +407,7 @@ function wp_dashboard_right_now() {
 		echo "<p><a href='options-reading.php' title='$title'>$content</a></p>";
 	}
 
-	update_right_now_message();
+//	update_right_now_message();
 
 	echo "\n\t".'<br class="clear" /></div>';
 	do_action( 'rightnow_end' );

@@ -20,79 +20,28 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="admin-footer.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-admin/admin-footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="69" selection-start="711" selection-end="711" vertical-scroll-proportion="-6.9615383">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="update.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-admin/includes/update.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="126" column="44" selection-start="3674" selection-end="3674" vertical-scroll-proportion="-10.230769">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-admin/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="130" column="15" selection-start="6282" selection-end="6282" vertical-scroll-proportion="-5.509804">
-              <folding>
-                <element signature="e#6#158#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="dashboard.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-admin/includes/dashboard.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="197" column="19" selection-start="9017" selection-end="9017" vertical-scroll-proportion="-8.269231">
+            <state line="1261" column="9" selection-start="50156" selection-end="50156" vertical-scroll-proportion="-2.5294118">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="screen.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="screen.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-admin/includes/screen.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="175" column="15" selection-start="4743" selection-end="4743" vertical-scroll-proportion="0.22426471">
+            <state line="949" column="57" selection-start="25255" selection-end="25255" vertical-scroll-proportion="-5.269231">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="core.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/ozh-admin-drop-down-menu/inc/core.php">
+      <file leaf-file-name="default-filters.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/default-filters.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="386" column="16" selection-start="12856" selection-end="12856" vertical-scroll-proportion="-9.269231">
-              <folding>
-                <marker date="1369644711518" expanded="false" signature="3444:3465" placeholder="..." />
-                <marker date="1369644711518" expanded="false" signature="3506:3524" placeholder="..." />
-                <marker date="1369644711518" expanded="true" signature="8045:8381" placeholder="&lt;xml/&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colors-classic.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-admin/css/colors-classic.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="808" column="26" selection-start="14508" selection-end="14508" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wp-admin.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-admin/css/wp-admin.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="0" selection-start="1169" selection-end="1178" vertical-scroll-proportion="0.0">
+            <state line="255" column="0" selection-start="12262" selection-end="12262" vertical-scroll-proportion="-5.269231">
               <folding />
             </state>
           </provider>
@@ -101,8 +50,65 @@
       <file leaf-file-name="adminmenu.css.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/ozh-admin-drop-down-menu/inc/adminmenu.css.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="36" selection-start="1771" selection-end="1771" vertical-scroll-proportion="-5.8846154">
+            <state line="257" column="1" selection-start="8451" selection-end="8451" vertical-scroll-proportion="-5.423077">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="80" selection-start="2814" selection-end="2814" vertical-scroll-proportion="-5.269231">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-admin/menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="18" selection-start="1321" selection-end="1321" vertical-scroll-proportion="0.6213592">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin-ajax.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/admin-ajax.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="30" selection-start="1514" selection-end="1514" vertical-scroll-proportion="-5.769231">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="freedoms.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/freedoms.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="23" selection-start="373" selection-end="373" vertical-scroll-proportion="-5.6153846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setup-config.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/setup-config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="111" column="14" selection-start="3863" selection-end="3863" vertical-scroll-proportion="-5.269231">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update-core.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/update-core.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="357" column="62" selection-start="16095" selection-end="16095" vertical-scroll-proportion="-5.269231">
+              <folding>
+                <marker date="1348256063000" expanded="false" signature="21730:21775" placeholder="..." />
+                <marker date="1348256063000" expanded="false" signature="22686:22731" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,7 +134,12 @@
         <option value="$PROJECT_DIR$/wp-admin/admin-footer.php" />
         <option value="$PROJECT_DIR$/wp-admin/includes/update.php" />
         <option value="$PROJECT_DIR$/wp-admin/index.php" />
+        <option value="$PROJECT_DIR$/wp-admin/includes/template.php" />
+        <option value="$PROJECT_DIR$/wp-includes/post.php" />
+        <option value="$PROJECT_DIR$/wp-includes/default-constants.php" />
         <option value="$PROJECT_DIR$/wp-admin/includes/dashboard.php" />
+        <option value="$PROJECT_DIR$/wp-includes/default-filters.php" />
+        <option value="$PROJECT_DIR$/wp-admin/menu.php" />
       </list>
     </option>
   </component>
@@ -216,6 +227,9 @@
       <TestRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -232,10 +246,10 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.47519293" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.6703418" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.52480704" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -302,116 +316,117 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/bootstrap-admin/assets/css/buttons.css">
+    <entry file="file://$PROJECT_DIR$/wp-includes/default-constants.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="13" selection-start="597" selection-end="597" vertical-scroll-proportion="-0.4373928">
+        <state line="271" column="4" selection-start="6857" selection-end="6857" vertical-scroll-proportion="0.43529412">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/bootstrap-admin/includes/config.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/admin/woocommerce-admin-dashboard.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="33" selection-start="86" selection-end="111" vertical-scroll-proportion="-1.9615384">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/bootstrap-admin/screenshot-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/bootstrap-admin/screenshot-2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/bootstrap-admin/bootstrap-admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="51" selection-start="2458" selection-end="2458" vertical-scroll-proportion="-28.76923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/bootstrap-admin/assets/css/compiled-style_bk.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/bootstrap-admin/assets/css/compiled-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6958" column="17" selection-start="174129" selection-end="174129" vertical-scroll-proportion="0.5719298">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/css/colors-classic.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="808" column="26" selection-start="14508" selection-end="14508" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/css/wp-admin.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="0" selection-start="1169" selection-end="1178" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/ozh-admin-drop-down-menu/inc/adminmenu.css.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="36" selection-start="1771" selection-end="1771" vertical-scroll-proportion="-5.8846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/ozh-admin-drop-down-menu/inc/core.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="386" column="16" selection-start="12856" selection-end="12856" vertical-scroll-proportion="-9.269231">
-          <folding>
-            <marker date="1369644711518" expanded="false" signature="3444:3465" placeholder="..." />
-            <marker date="1369644711518" expanded="false" signature="3506:3524" placeholder="..." />
-            <marker date="1369644711518" expanded="true" signature="8045:8381" placeholder="&lt;xml/&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/admin-footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="69" selection-start="711" selection-end="711" vertical-scroll-proportion="-6.9615383">
+        <state line="203" column="0" selection-start="7984" selection-end="7984" vertical-scroll-proportion="-3.6538463">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-admin/includes/update.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="44" selection-start="3674" selection-end="3674" vertical-scroll-proportion="-10.230769">
+        <state line="142" column="33" selection-start="4373" selection-end="4397" vertical-scroll-proportion="-2.5294118">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-admin/index.php">
+    <entry file="file://$PROJECT_DIR$/database/samplew.vtscat.com.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="15" selection-start="6282" selection-end="6282" vertical-scroll-proportion="-5.509804">
+        <state line="686" column="54" selection-start="562947" selection-end="562947" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="23" selection-start="377" selection-end="377" vertical-scroll-proportion="-5.6153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/credits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="23" selection-start="1424" selection-end="1424" vertical-scroll-proportion="-5.6153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/freedoms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="23" selection-start="373" selection-end="373" vertical-scroll-proportion="-5.6153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/setup-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="14" selection-start="3863" selection-end="3863" vertical-scroll-proportion="-5.269231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/update-core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="357" column="62" selection-start="16095" selection-end="16095" vertical-scroll-proportion="-5.269231">
           <folding>
-            <element signature="e#6#158#0" expanded="true" />
+            <marker date="1348256063000" expanded="false" signature="21730:21775" placeholder="..." />
+            <marker date="1348256063000" expanded="false" signature="22686:22731" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/admin-ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="30" selection-start="1514" selection-end="1514" vertical-scroll-proportion="-5.769231">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-admin/includes/dashboard.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="197" column="19" selection-start="9017" selection-end="9017" vertical-scroll-proportion="-8.269231">
+        <state line="1261" column="9" selection-start="50156" selection-end="50156" vertical-scroll-proportion="-2.5294118">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-admin/includes/screen.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="175" column="15" selection-start="4743" selection-end="4743" vertical-scroll-proportion="0.22426471">
+        <state line="949" column="57" selection-start="25255" selection-end="25255" vertical-scroll-proportion="-5.269231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/default-filters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="255" column="0" selection-start="12262" selection-end="12262" vertical-scroll-proportion="-5.269231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/ozh-admin-drop-down-menu/inc/adminmenu.css.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="257" column="1" selection-start="8451" selection-end="8451" vertical-scroll-proportion="-5.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="80" selection-start="2814" selection-end="2814" vertical-scroll-proportion="-5.269231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="18" selection-start="1321" selection-end="1321" vertical-scroll-proportion="0.6213592">
           <folding />
         </state>
       </provider>
