@@ -19,10 +19,10 @@
 define('DB_NAME', 'samplew.vtscat.com');
 
 /** MySQL database username */
-define('DB_USER', 'vtscatw');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'tinhanh123');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');

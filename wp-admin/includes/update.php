@@ -113,7 +113,7 @@ function core_update_footer( $msg = '' ) {
 	break;
 	}
 }
-add_filter( 'update_footer', 'core_update_footer' );
+//add_filter( 'update_footer', 'core_update_footer' );
 
 function update_nag() {
 	if ( is_multisite() && !current_user_can('update_core') )

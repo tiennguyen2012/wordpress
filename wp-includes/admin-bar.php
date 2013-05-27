@@ -72,6 +72,7 @@ add_action( 'in_admin_header', 'wp_admin_bar_render', 0 );
  * @since 3.3.0
  */
 function wp_admin_bar_wp_menu( $wp_admin_bar ) {
+    /*
 	$wp_admin_bar->add_menu( array(
 		'id'    => 'wp-logo',
 		'title' => '<span class="ab-icon"></span>',
@@ -80,6 +81,7 @@ function wp_admin_bar_wp_menu( $wp_admin_bar ) {
 			'title' => __('About WordPress'),
 		),
 	) );
+    */
 
 	if ( is_user_logged_in() ) {
 		// Add "About WordPress" link
