@@ -71,13 +71,6 @@ function login_header($title = 'Log In', $message = '', $wp_error = '') {
 	do_action( 'login_enqueue_scripts' );
 	do_action( 'login_head' );
 
-	if ( is_multisite() ) {
-		$login_header_url   = network_home_url();
-		$login_header_title = $current_site->site_name;
-	} else {
-		$login_header_url   = __( 'http://wordpress.org/' );
-		$login_header_title = __( 'Powered by WordPress' );
-	}
 
 	$login_header_url   = apply_filters( 'login_headerurl',   $login_header_url   );
 	$login_header_title = apply_filters( 'login_headertitle', $login_header_title );
@@ -96,7 +89,7 @@ function login_header($title = 'Log In', $message = '', $wp_error = '') {
 	</head>
 	<body class="login <?php echo esc_attr( implode( ' ', $classes ) ); ?>">
 	<div id="login">
-		<h1><a href="<?php echo esc_url( $login_header_url ); ?>" title="<?php echo esc_attr( $login_header_title ); ?>"><?php bloginfo( 'name' ); ?></a></h1>
+<!--		 <h1><a href="--><?php //echo esc_url( $login_header_url ); ?><!--" title="--><?php //echo esc_attr( $login_header_title ); ?><!--">--><?php //bloginfo( 'name' ); ?><!--</a></h1>-->
 	<?php
 
 	unset( $login_header_url, $login_header_title );
